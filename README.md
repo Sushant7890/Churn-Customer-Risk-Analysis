@@ -1,4 +1,4 @@
-# Churn-Customer-Risk-Analysis
+# Churn & Customer-Risk-Analysis Dashboard
 ## Project Objective
 This report appears to be a churn dashboard for a telecommunications or subscription-based company. It provides an overview of customer demographics, account information, service subscriptions, and key performance indicators (KPIs) related to churn. The data is presented through a combination of numerical figures, percentages, and bar graphs.
 
@@ -14,7 +14,7 @@ How does the type of contract and payment method affect churn?
 What is the financial impact of churn in terms of lost monthly and yearly charges?         
 Are customer support interactions (tech and admin tickets) correlated with churn?          
 
-## Dashoard Interaction
+## Dashboard Interaction
 - <a href="https://github.com/Sushant7890/Churn-Customer-Risk-Analysis/blob/main/Customer%20Retention.pdf">DataSet Details</a>
 
 ## Process
