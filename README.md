@@ -6,13 +6,13 @@ This report appears to be a churn dashboard for a telecommunications or subscrip
 - <a href="https://github.com/Sushant7890/Churn-Customer-Risk-Analysis/blob/main/02%20Churn-Dataset.xlsx">DataSet Details</a>
 
 ## Questions (KPIs)
-What are the key factors contributing to customer churn, and what actions can be taken to mitigate it?
-What is the overall churn rate and how many customers are at risk?             
-What are the demographic characteristics of customers at risk of churn?           
-What services are most commonly associated with churn?            
-How does the type of contract and payment method affect churn?             
-What is the financial impact of churn in terms of lost monthly and yearly charges?         
-Are customer support interactions (tech and admin tickets) correlated with churn?          
+What are the key factors contributing to customer churn, and what actions can be taken to mitigate it?                                                        
+What is the overall churn rate and how many customers are at risk?                                                               
+What are the demographic characteristics of customers at risk of churn?                                                          
+What services are most commonly associated with churn?                                                                 
+How does the type of contract and payment method affect churn?                                                                            
+What is the financial impact of churn in terms of lost monthly and yearly charges?                                                                    
+Are customer support interactions (tech and admin tickets) correlated with churn?                                                                         
 
 ## Dashboard Interaction
 - <a href="https://github.com/Sushant7890/Churn-Customer-Risk-Analysis/blob/main/Customer%20Retention.pdf">DataSet Details</a>
